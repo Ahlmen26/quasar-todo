@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Quasar Framework app",
   "productName": "Quasar Todo",
-  "author": "Ahlmen26 <colina.nielahlmen@gmail.com>",
+  "author": "Niel Malitoc <colina.nielahlmen@gmail.com>",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
